@@ -1,4 +1,4 @@
-public class Produto Add commentMore actions
+public class 
 {
     public string Id { get; }
     public string Nome { get; }
